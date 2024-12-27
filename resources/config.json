@@ -1,0 +1,1 @@
+{"G": 6.6743e-11, "planets": [{"name": "Earth", "mass": 5.972e+24, "position": [0.0, 0.0], "velocity": [0.0, 30000.0]}, {"name": "Moon", "mass": 7.348e+22, "position": [384400000.0, 0.0], "velocity": [0.0, -1022.0]}]}
