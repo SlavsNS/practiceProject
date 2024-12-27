@@ -20,9 +20,7 @@ This project provides a graphical user interface (GUI) and backend to simulate p
 
 Install the required dependencies:
 
-```bash
 pip install -r requirements.txt
-```
 
 ### File Structure
 
